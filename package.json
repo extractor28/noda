@@ -1,0 +1,23 @@
+{
+  "name": "noda",
+  "version": "1.0.0",
+  "description": "telegram-bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "extractor",
+  "license": "ISC",
+  "dependencies": {
+    "@deepvision/eslint-config": "^6.6.6",
+    "axios": "^0.19.2",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.0.0",
+    "jsdom": "^16.2.2",
+    "nekos.life": "^2.0.7",
+    "node-telegram-bot-api": "^0.40.0",
+    "randomfox.js": "^1.0.3",
+    "telegraf": "^3.38.0",
+    "weather-js": "^2.0.0"
+  }
+}
